@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.12acfeed.css",
-    "main.js": "/static/js/main.382fe362.js",
-    "static/js/488.21a3b654.chunk.js": "/static/js/488.21a3b654.chunk.js",
-    "index.html": "/index.html",
-    "main.12acfeed.css.map": "/static/css/main.12acfeed.css.map",
-    "main.382fe362.js.map": "/static/js/main.382fe362.js.map",
-    "488.21a3b654.chunk.js.map": "/static/js/488.21a3b654.chunk.js.map"
+    "main.css": "/liyedan.github.io/static/css/main.12acfeed.css",
+    "main.js": "/liyedan.github.io/static/js/main.866bc63c.js",
+    "static/js/488.21a3b654.chunk.js": "/liyedan.github.io/static/js/488.21a3b654.chunk.js",
+    "index.html": "/liyedan.github.io/index.html",
+    "main.12acfeed.css.map": "/liyedan.github.io/static/css/main.12acfeed.css.map",
+    "main.866bc63c.js.map": "/liyedan.github.io/static/js/main.866bc63c.js.map",
+    "488.21a3b654.chunk.js.map": "/liyedan.github.io/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12acfeed.css",
-    "static/js/main.382fe362.js"
+    "static/js/main.866bc63c.js"
   ]
 }
